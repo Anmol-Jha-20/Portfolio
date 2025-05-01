@@ -134,8 +134,8 @@ export const projects = [
       "Developed a frontend UI for a bus ticket booking application using React.js and Tailwind CSS. Animated UI transitions for smooth page interactions using Framer Motion (A React Animation Library)",
     image: BusWallah,
     tags: ["React JS", "Tailwind CSS"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
-    webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+    github: "https://github.com/Anmol-Jha-20/Bus-wallah",
+    webapp: "https://bus-wallah.vercel.app/",
   },
   {
     id: 4,
