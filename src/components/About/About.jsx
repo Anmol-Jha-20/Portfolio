@@ -43,7 +43,7 @@ function About() {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/19tSgrYjnaAcsn4HFC5a0xpV-e88N5rKR/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1FnmKy8G1oEG-QGsjilYMC1av0WoPKi8o/view?usp=drivesdk"
             target="_blank"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
